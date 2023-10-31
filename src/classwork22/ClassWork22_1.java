@@ -8,7 +8,7 @@ public class ClassWork22_1 {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         System.out.println(a + b);
-        System.out.println("Endegit");
+        System.out.println("Endegit");//  Änderung
     }
 
 }
