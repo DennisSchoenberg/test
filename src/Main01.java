@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Main01 {
+
+// забыл написать коментарий
+
     public static String newDayName(int number) {
         String dayName;
         switch (number) {
