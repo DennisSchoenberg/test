@@ -8,7 +8,7 @@ public class Main01 {
         String dayName;
         switch (number) {
             case 1:
-                dayName = "Понедельник";
+                dayName = "Понедельник день тяжёлый";
                 break;
             case 2:
                 dayName = "Вторник";
