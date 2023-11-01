@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// забыл написать коментарий
 public class main01 {
     public static String newDayName(int number) {
         String dayName;
