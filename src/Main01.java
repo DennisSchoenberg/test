@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main01 {
+public class Main01 {
     public static String newDayName(int number) {
         String dayName;
         switch (number) {
@@ -42,7 +42,8 @@ public class main01 {
                 String dayName = newDayName(number);
                 System.out.println(dayName);
             } else {
-                System.out.println("Некорректный ввод.");
+                System.out.print("Некорректный ввод.");
+                System.out.println("попробуёте ещё раз");
             }
         } while (number < 1 || number > 7);
     }
