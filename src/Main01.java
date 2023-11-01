@@ -11,7 +11,7 @@ public class Main01 {
                 dayName = "Понедельник день тяжёлый";
                 break;
             case 2:
-                dayName = "Вторник";
+                dayName = "Вторник вообще атаз";
                 break;
             case 3:
                 dayName = "Среда";
